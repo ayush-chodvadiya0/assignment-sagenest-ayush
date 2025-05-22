@@ -54,7 +54,7 @@ const Header = () => {
             size="small" 
             className="text-green-500 bg-transparent"
           >
-            Login
+            <p className='text-green-500'>Login</p>
           </Button>
           <Button 
             variant="primary" 
